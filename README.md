@@ -1,2 +1,1 @@
-Saugat Gaihre
-Learning Github
+Hello, My name is Saugat gaihre and i am learning github from beginning.
